@@ -206,7 +206,7 @@ class Music extends StatelessWidget {
               getMusic(
                   AssetImage('images/amr1.jpg'), 'Tamally m3ak', '2000', 2150),
               getMusic(
-                  AssetImage('images/amr2.jpg'), 'Odam Merayetha', '2020', 200),
+                  AssetImage('images/amr2.jpg'), 'Odam Merayetha', '2020', 210),
               getMusic(AssetImage('images/amr3.jpg'), 'Amaken El Sahar', '2020',
                   300),
               getMusic(AssetImage('images/amr4.jpg'), 'Hadded', '2018', 216),
